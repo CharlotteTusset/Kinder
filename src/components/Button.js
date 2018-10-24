@@ -7,14 +7,6 @@ class Button extends React.Component {
 		this.props.resetAll(this.props.id)
 	}
 
-	
-  // Function to reset charts
-  resetAll(chartId){
-    let resetChart = this.state.charts;
-    resetChart[chartId].value = 0;
-    this.setState({charts: resetChart});
-  }
-
 	render() {
 		return (
 			<div className="text-center">
