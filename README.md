@@ -2,9 +2,10 @@
 
 ## What
 
-Challenge for an internship at Kinderworld, Amsterdam-based startup. 
+Challenge for an internship at [Kinderworld](https://www.kinder-world.org/), Amsterdam-based startup. 
 
-Realise an app in Vue.js or React based on a given design
+### Realise an app in Vue.js or React based on a given design
+
 ![given design](design.jpg). 
 
 I have chosen **Reactjs**.
