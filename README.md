@@ -6,7 +6,7 @@ Challenge for an internship at [Kinderworld](https://www.kinder-world.org/), Ams
 
 ### Realise an app in Vue.js or React based on a given design
 
-![given design](design.jpg). 
+![given design](design.jpg) 
 
 I have chosen **Reactjs**.
 
